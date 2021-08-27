@@ -1,4 +1,4 @@
-I'm a web developer at AZ
+I'm a web developer at ANYMARKET
 
 - :briefcase: I’m currently working on JavaScript and Java apps/systems.
 - :books: I’m currently learning AI, Python, DevOps.
